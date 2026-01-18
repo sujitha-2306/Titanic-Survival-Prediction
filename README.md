@@ -1,19 +1,20 @@
-##Titanic Survival Prediction
-This project predicts survival of Titanic passengers using Machine Learning (Random Forest).
+# Titanic Survival Prediction
 
-##Features
+This project predicts survival of Titanic passengers using Machine Learning (Random Forest).  
+
+## Features
 - Handles missing values
 - Encodes categorical data
 - Interactive prediction (enter passenger details manually)
 - Displays model accuracy and prediction
-- 
-##How to Use
-- Download the Titanic dataset from Kaggle
-- Place train.csv in the project folder.
-- Run titanic_ml_interactive.py
-- Enter passenger details to get survival prediction.
 
-##Libraries Used
+## How to Use
+1. Download the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data)  
+2. Place `train.csv` in the project folder.  
+3. Run `titanic_ml_interactive.py`  
+4. Enter passenger details to get survival prediction.
+
+## Libraries Used
 - pandas
 - numpy
 - matplotlib
