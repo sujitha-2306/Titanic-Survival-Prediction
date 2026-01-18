@@ -21,6 +21,7 @@ This project predicts survival of Titanic passengers using Machine Learning (Ran
 - scikit-learn
 
 ##Example output
+
 Enter passenger details below: 
 Pclass (1=1st, 2=2nd, 3=3rd): 3 
 Sex (male/female): male 
